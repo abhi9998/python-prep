@@ -1,0 +1,9 @@
+{
+    "name":"Abhi",
+    "address":{
+        "street":"lower canada",
+        "number":60
+    },
+    "salary":133000,
+    "hobbies":["A","B","C"]
+}
